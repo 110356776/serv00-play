@@ -2,6 +2,12 @@
 
 💖 如果你在用这个项目，请给我打个 star，好让我知道有多少人从这个项目中受益。
 
+## 视频教程
+https://www.youtube.com/watch?v=bpYV8r85F-8
+
+## 前置工作
+安装密码:skjyyds666
+
 ## 前置工作
 
 1. 你需要有一个 serv00 帐号
@@ -10,7 +16,7 @@
 ## 安装说明
 
 ```s
-bash <(curl -Ls https://raw.githubusercontent.com/frankiejun/serv00-play/main/start.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/110356776/serv00-play/main/start.sh)
 ```
 
 ## 变量说明
